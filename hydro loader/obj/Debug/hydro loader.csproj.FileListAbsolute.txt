@@ -1,0 +1,14 @@
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydro loader.csprojAssemblyReference.cache
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydro_loader.Properties.Resources.resources
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydro loader.csproj.GenerateResource.cache
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\bin\Debug\hydro loader.exe.config
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\bin\Debug\hydro loader.exe
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\bin\Debug\hydro loader.pdb
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\bin\Debug\AuthGG.dll
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydro loader.csproj.CopyComplete
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydro loader.exe
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydro loader.pdb
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydroLIB.gui.Form3.resources
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydroLIB.Register.resources
+C:\Users\fortnite\source\repos\hydro loader\hydro loader\obj\Debug\hydroLIB.gui.Login.resources
